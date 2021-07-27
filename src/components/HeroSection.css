@@ -20,14 +20,14 @@ video {
 
 .hero-container > h1 {
   color: #fff;
-  font-size: 60px;
+  font-size: 100px;
   margin-top: -100px;
 }
 
 .hero-container > p {
-  margin-top: 20px;
+  margin-top: 8px;
   color: #fff;
-  font-size: 28px;
+  font-size: 32px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
 }
@@ -53,7 +53,7 @@ video {
 
 @media screen and (max-width: 768px) {
   .hero-container > h1 {
-    font-size: 30px;
+    font-size: 50px;
     margin-top: -100px;
   }
 
